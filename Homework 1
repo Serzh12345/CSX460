@@ -1,0 +1,3 @@
+Exercize 2:
+
+ifelse(x%%3==0,"Fizz",ifelse(x%%5==0,"Buzz",ifelse(x==15,"FizzBuzz",x)))
